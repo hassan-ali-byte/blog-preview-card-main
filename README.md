@@ -50,8 +50,6 @@ This project gave me a chance to strengthen my understanding of semantic HTML an
 A special thanks to the resources that guided me while working on this challenge:
 
 - [Kevin Powell on YouTube](https://www.youtube.com/@KevinPowell) — Clear explanations of modern CSS features like `clamp()`, `min()`, and `max()`.  
-- **ChatGPT** — Helped me apply these concepts in a practical, production-focused way.
-
 
 ## Author
 
