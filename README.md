@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Live Demo
 
-[View Live Demo](https:/)
+[View Live Demo](https://hassan-ali-byte.github.io/blog-preview-card-main/)
 
 ## My process
 
@@ -44,6 +44,14 @@ This project gave me a chance to strengthen my understanding of semantic HTML an
 
 - Using proper semantic tags: `h1`/`h2` for section titles, `<p>` and `<span>` for the author name, and `<time>` for the publish date.
 - I already knew how to use `clamp()` for responsive fonts, but in this project I applied it for component widths. It worked perfectly and reduced the need for media queries.
+- 
+
+## 📚 Resources
+A special thanks to the resources that guided me while working on this challenge:
+
+- [Kevin Powell on YouTube](https://www.youtube.com/@KevinPowell) — Clear explanations of modern CSS features like `clamp()`, `min()`, and `max()`.  
+- **ChatGPT** — Helped me apply these concepts in a practical, production-focused way.
+
 
 ## Author
 
